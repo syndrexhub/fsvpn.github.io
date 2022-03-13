@@ -16,17 +16,17 @@ echo ""
 echo -e " ╔═══════════════════════════════════════╗" | lolcat
 echo -e " ║  MENU PANEL  AUTO  INSTALL  SCRIPT    ║" | lolcat
 echo -e " ╠═══════════════════════════════════════╝" | lolcat
-echo -e " $bd║\e[m"
-echo -e " $bd║\e[ 1$bl]\e[$bd AUTOSCRIPT SPECIAL TROJAN 443" | lolcat
-echo -e " $bd║\e[m"
-echo -e " $bd║\e[ 2$bl]\e[$bd AUTOSCRIPT PREMIUM" | lolcat
-echo -e " $bd║\e[m"
-echo -e " $bd║\e[ 3$bl]\e[$bd INSTALL AUTOSCRIPT WITH LICENSE" | lolcat
-echo -e " $bd║\e[m"
-echo -e " $bd║\e[ 4$bl]\e[$bd INSTALL AUTOSCRIPT WITH TRIAL MODE" | lolcat
-echo -e " $bd║\e[m"
-echo -e " $bd║\e[ x$bl]\e[$bd BATAL INSTALL AUTOSCRIPT" | lolcat
-echo -e " $bd║\e[m"
+echo -e " $bd║\e["
+echo -e " $bd║\e[1]\e[ AUTOSCRIPT SPECIAL TROJAN 443" | lolcat
+echo -e " $bd║\e["
+echo -e " $bd║\e[2]\e[ AUTOSCRIPT PREMIUM" | lolcat
+echo -e " $bd║\e["
+echo -e " $bd║\e[3]\e[ INSTALL AUTOSCRIPT WITH LICENSE" | lolcat
+echo -e " $bd║\e["
+echo -e " $bd║\e[4]\e[ INSTALL AUTOSCRIPT WITH TRIAL MODE" | lolcat
+echo -e " $bd║\e["
+echo -e " $bd║\e[X]\e[ BATAL INSTALL AUTOSCRIPT" | lolcat
+echo -e " $bd║\e["
 echo -e " ╠═══════════════════════════════════════╗" | lolcat
 echo -e " ║ COPYRIGHT ©2022 AUTOSCRIPT BY FSIDVPN ║" | lolcat
 echo -e " ╚═══════════════════════════════════════╝" | lolcat
