@@ -6,6 +6,10 @@ NC='\e[0m'
 bl='\e[36;1m'
 bd='\e[1m'
 
+apt install figlet -y
+apt install lolcat -y
+gem install lolcat
+
 clear
 echo ""
 echo ""
