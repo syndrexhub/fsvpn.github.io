@@ -587,6 +587,7 @@ apt-get -y --purge remove bind9*;
 apt-get -y remove sendmail*
 apt autoremove -y
 # finishing
+sudo hostnamectl set-hostnamesudo hostnamectl set-hostname FsidvpnProject
 cd
 chown -R www-data:www-data /home/vps/public_html
 /etc/init.d/nginx restart
